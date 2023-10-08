@@ -1,2 +1,21 @@
+.holder{
+	display:grid;
+	grid-column:span;
+	grid-row:span;
+}
 
+.item{
+	height:50px;
+	width:50px;
+}
+
+.item-3{
+	background-color:green;
+}
+.item-1{
+	background-color:red;
+}
+.item-2{
+	background-color:blue;
+}
 /* Your CSS Code here. */
